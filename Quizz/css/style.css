@@ -1,0 +1,125 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+.caja1{
+    background-color: aqua;
+    height: 50px;
+}
+
+.caja2{
+    background-color: antiquewhite;
+    height: 50px;
+}
+
+.caja3{
+    background-color: aqua;
+    height: 50px;
+}
+
+.caja4{
+    background-color: azure;
+    height: 50px;
+}
+
+.caja5{
+    background-color: beige;
+    height: 400px;
+}
+
+.caja6{
+    background-color: bisque;
+    height: 250px;
+}
+
+.caja7{
+    background-color: black;
+    height: 250px;
+}
+
+.caja8{
+    background-color: blanchedalmond;
+    height: 250px;
+}
+
+.caja9{
+    background-color: blue;
+    height: 250px;
+}
+
+.caja10{
+    background-color: blueviolet;
+    height: 250px;
+}
+
+.caja11{
+    background-color: brown;
+    height: 250px;
+}
+
+.caja12{
+    background-color: rgb(209, 110, 110);
+    height: 250px;
+}
+
+.caja13{
+    background-color: rgb(44, 190, 147);
+    height: 250px;
+}
+
+.caja14{
+    background-color: rgb(35, 32, 192);
+    height: 250px;
+}
+
+.caja15{
+    background-color: 
+    rgb(6, 56, 56);
+    height: 200px;  
+}
+
+.caja16{
+    background-color:
+    rgb(68, 7, 53);
+    height: 200px;
+}
+
+.caja17{
+    background-color:
+     rgb(230, 157, 63);
+     height: 200px;
+}
+
+.caja18{
+    background-color:
+    rgb(128, 204, 204);
+    height: 200px;
+}
+
+.caja19{
+    background-color:
+     rgb(137, 154, 206);
+     height: 200px;
+}
+
+.caja20{
+    background-color:
+    rgb(204, 255, 0);
+    height: 200px;
+}
+
+.caja21{
+    background-color:
+     rgb(150, 118, 180);
+     height: 200px;
+}
+
+.caja22{
+    background-color:
+     rgba(149, 64, 206, 0.575);
+     height: 200px;
+}
